@@ -8,4 +8,4 @@ def countdown (int)
    sleep 1
   end
   return "HAPPY NEW YEAR!"  
-endrspec
+end
